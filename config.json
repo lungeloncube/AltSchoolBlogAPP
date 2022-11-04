@@ -1,0 +1,9 @@
+{
+    "SECRET_KEY": "30da7467eb0b3b07259c2fee6e4ffbde",
+
+    "EMAIL_USER": "example@gmail.com",
+
+    "EMAIL_PASS": "gmail_account_password"
+
+
+}
